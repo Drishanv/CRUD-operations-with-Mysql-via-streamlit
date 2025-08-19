@@ -4,10 +4,11 @@ import streamlit as st
 # establish a connection to MYSQL server
 
 mydb = mysql.connector.connect(
-    host= "LocalHost",
-    user = "root",
-    password = "Drishvig997@",
-    database = "CRUD_DB1"
+    host= "sql12.freesqldatabase.com",
+    port = 3306,
+    user = "sql12795418",
+    password = "splpAf4kYI",
+    database = "sql12795418"
 )
 
 mycursor = mydb.cursor()
