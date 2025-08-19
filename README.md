@@ -20,7 +20,3 @@ The UI presents a left-side selector for the operation (Create / Read / Update /
 - Tools used- streamlit, mysql
 - Database- mysql
 
----
-
-## Project Structure
-
